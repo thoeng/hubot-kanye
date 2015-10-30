@@ -11,7 +11,7 @@
 #   hubot kanye me - Self-confidence from Kanye West
 #
 # Author:
-#   pcarn (pc033461)
+#   pcarn <https://github.com/pcarn>
 
 quotes = [
   "Jay is Kweli's favorite rapper, 50 is Eminem's favorite rapper, and I'm my favorite rapper.",

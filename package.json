@@ -1,7 +1,7 @@
 {
   "name": "hubot-kanye",
   "description": "Gives quotes from Kanye West.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Peter Carnesciali <pcarn9@gmail.com> (http://github.com/pcarn)",
   "license": "WTFPL",
   "keywords": [
