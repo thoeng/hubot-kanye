@@ -52,7 +52,7 @@ quotes = [
   "I just threw some kazoo on this bitch",
   "Just imagine if I woke up one day and I was whack. What would I do then?",
   "One of the problems with being a bubbling source of creativity — it's like I'm bubbling in a laboratory, and if you don't put a cap on it, at one point it will, like, break the glass. If I can hone that… then I have, like, nuclear power, like a superhero, like Cyclops when he puts his glasses on.",
-  "Man…ninjas are kind of cool…I just don’t know any personally”.
+  "Man…ninjas are kind of cool…I just don’t know any personally."
 ]
 
 module.exports = (robot) ->
